@@ -7,4 +7,5 @@ Click Solve.
 You are done solving the sudoku.
 
 #Screenshots
-![](images/Capture.jpg)
+
+![](images/Capture.JPG)
