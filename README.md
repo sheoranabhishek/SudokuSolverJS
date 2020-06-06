@@ -6,4 +6,5 @@ Enter the numbers in the sudoku .
 Click Solve.
 You are done solving the sudoku.
 
-Screenshots
+#Screenshots
+![](images/Capture.jpg)
